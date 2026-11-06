@@ -1,0 +1,9 @@
+/target
+/.freebuff
+/.cloud-attachments
+/backup
+/dist
+/Report.txt
+/regclean-exclusions.txt
+*.zip
+*.pdb
